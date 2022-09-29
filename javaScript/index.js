@@ -50,12 +50,10 @@ spans.forEach((span) => {
 function setCardsPosition(number) {
   const scrollValue = (380 + 16) * (number - 1);
   wrapper.scrollLeft = 0;
-  console.log(scrollValue);
   wrapper.scrollLeft += scrollValue;
 }
 
 wrapper.addEventListener("scroll", () => {
-  console.log(wrapper.scrollLeft);
   if (wrapper.scrollLeft < 80) {
     removeAtiveFromSpans(0);
   } else if (wrapper.scrollLeft < 490) {
