@@ -1,0 +1,16 @@
+{
+  "name": "managelandingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./style/input.css -o ./style/style.css",
+    "watch": "tailwindcss -i ./style/input.css -o ./style/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
