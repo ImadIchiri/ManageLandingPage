@@ -1,6 +1,6 @@
 ## Live demo <a href='https://imadichiri.github.io/ManageLandingPage' target='_blank'>from here</a>
 
-## Tools used are: ['HTML5', 'CSS3', 'TailwindCss', 'JavaScript', 'ES6', 'ResponsiveDesign']
+### Tools used are: ['HTML5', 'CSS3', 'TailwindCss', 'JavaScript', 'ES6', 'ResponsiveDesign']
 
 ### For Any Question
 
